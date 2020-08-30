@@ -9,6 +9,9 @@ Pewlett-Hackard is a large company, consisting of several thousand employees.  I
 Four major points can be identified as results of the analysis:
 - As to be expected, senior level positions are the largest groups of employees that will be retiring and eligible for a retirment package.  Senior Engineers (29,414) followed by Senior Staff (28,254) are the largest groups of senior level employees set to retire.
   - This result was found by creating a table with the number of retiring employees grouped by title.  the table, with seven rows, quickly shows how many employees with certain titles will retire in the next few years.
+<div>
+<img class="marginauto" src='https://github.com/jennfrbrown/Pewlett-Hackard-Analysis/blob/master/ReadMe%20Images/Retirement_Titles_Table.PNG' alt="centered image" alt="centered image" />
+</div>
 
 
 
