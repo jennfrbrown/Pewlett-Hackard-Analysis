@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+,# Pewlett-Hackard-Analysis
 
 ## Overview of the Analysis:
   
@@ -6,7 +6,12 @@ Pewlett-Hackard is a large company, consisting of several thousand employees.  I
 
 ## Results:
 
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+Four major points can be identified as results of the analysis:
+- As to be expected, senior level positions are the largest groups of employees that will be retiring and eligible for a retirment package.  Senior Engineers (29,414) followed by Senior Staff (28,254) are the largest groups of senior level employees set to retire.
+  - This result was found by creating a table with the number of retiring employees grouped by title.  the table, with seven rows, quickly shows how many employees with certain titles will retire in the next few years.
+
+
+
 
 ## Summary:
 
