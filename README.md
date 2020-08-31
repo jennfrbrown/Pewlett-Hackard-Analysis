@@ -25,4 +25,9 @@ Provide high-level responses to the following questions, then provide two additi
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
+72,458 roles will need to be filled as the "silver tsunami" begin to make an impact.  
+
+There are more than enough qualified, retirement-ready employees in the department to mentor the next generationa of Pewlett Hackard employees.
+
+
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
