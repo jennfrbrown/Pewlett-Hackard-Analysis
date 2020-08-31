@@ -21,13 +21,12 @@ Pewlett-Hackard is a large company, consisting of several thousand employees.  I
 
 ## Summary:
 
-Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
-How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+#### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+72,458 roles will need to be filled as the "silver tsunami" begin to make an impact.  Pewlett Hackard should actively start recruiting to fill these positions or identify a different  resource source such as contractors and a change in process allowing for reduced resources.  Another query or table that would prove useful would be the average length of time an employee holds a specific title as well as the length of time an employee stays with a company.  This would help HR identify how many current employees in the company are likely to stay long enough to be promoted to senior positions rather than hiring outside talent.
 
-72,458 roles will need to be filled as the "silver tsunami" begin to make an impact.  
-
-There are more than enough qualified, retirement-ready employees in the department to mentor the next generationa of Pewlett Hackard employees.
+#### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+ 
+There are more than enough qualified, retirement-ready employees in the department to mentor the next generationa of Pewlett Hackard employees.  Another querie or table that could be looked at would be to identify the number of junior employees who might be eligible for some sort of mentorship program.  Rather than implementing just one mentorship program, you could implement a company wide mentorship program, in an effort to create a continuous pipeline of talent.
 
 
 The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
